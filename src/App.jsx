@@ -4,10 +4,6 @@ import { BrowserRouter as Router, Routes, Route, Navigate, Outlet } from 'react-
 // --- 1. IMPORT LANDING PAGE COMPONENTS ---
 import Navbar from './Component/Navbar';
 import Hero from './Component/Hero';
-import BentoGrid from './Component/BentoGrid';
-import ProductShowcase from './Component/ProductShowcase';
-import EventBanner from './Component/EventBanner';
-import Pricing from './Component/Pricing';
 
 // --- 2. IMPORT AUTH & DASHBOARD COMPONENTS ---
 import AuthPage from './Component/Login';
